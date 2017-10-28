@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7610119707847920412" name="abandoned_clean_this">"移除"</string>
+    <string msgid="3990027586878167529" name="abandoned_promise_explanation">"未安装此图标对应的应用。您可以移除此图标，也可以尝试搜索相应的应用并手动安装。"</string>
+    <string msgid="7096178467971716750" name="abandoned_promises_title">"未安装此应用"</string>
+    <string msgid="891119232568284442" name="abandoned_search">"搜索"</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string msgid="8902165848117513641" name="action_add_to_workspace">"添加到主屏幕"</string>
+    <string msgid="282377193880900022" name="action_decrease_height">"减小高度"</string>
+    <string msgid="1374549771083094654" name="action_decrease_width">"减小宽度"</string>
+    <string msgid="459390020612501122" name="action_increase_height">"增加高度"</string>
+    <string msgid="8773715375078513326" name="action_increase_width">"增加宽度"</string>
+    <string msgid="4339390619886385032" name="action_move">"移动项目"</string>
+    <string msgid="2170188780612570250" name="action_move_here">"将项目移至此处"</string>
+    <string msgid="8854216831569401665" name="action_move_screen_left">"将屏幕向左移动"</string>
+    <string msgid="329334910274311123" name="action_move_screen_right">"将屏幕向右移动"</string>
+    <string msgid="1603837886334246317" name="action_move_to_workspace">"移至主屏幕"</string>
+    <string msgid="1802976324781771067" name="action_resize">"调整大小"</string>
+    <string msgid="7456344436509528827" name="activity_not_available">"应用不可用"</string>
+    <string msgid="8071924732094499514" name="activity_not_found">"未安装该应用。"</string>
+    <string msgid="9040534766770853243" name="add_to_folder">"添加到“<ns1:g id="NAME">%1$s</ns1:g>”文件夹"</string>
+    <string msgid="4534929978967147231" name="add_to_folder_with_app">"添加到“<ns1:g id="NAME">%1$s</ns1:g>”所在文件夹"</string>
+    <string msgid="4793259502305558003" name="added_to_folder">"项目已添加到文件夹"</string>
+    <string msgid="9110807029020582876" name="all_apps_button_label">"应用"</string>
+    <string msgid="252062713717058851" name="all_apps_home_button_label">"主屏幕"</string>
+    <string msgid="7557140873644765180" name="all_apps_loading_message">"正在加载应用…"</string>
+    <string msgid="6332185285860416787" name="all_apps_no_search_results">"未找到与“<ns1:g id="QUERY">%1$s</ns1:g>”相符的应用"</string>
+    <string msgid="6705987535534678581" name="all_apps_search_bar_hint">"搜索应用…"</string>
+    <string msgid="5470761048755751471" name="all_apps_search_market_message">"转到 <ns1:g id="QUERY">%1$s</ns1:g>"</string>
+    <string msgid="2118706734511831751" name="allow_rotation_title">"允许旋转"</string>
+    <string msgid="8336702962104482644" name="app_downloading_title">"正在下载<ns1:g id="NAME">%1$s</ns1:g>，已完成 <ns1:g id="PROGRESS">%2$s</ns1:g>"</string>
+    <string msgid="649227358658669779" name="app_name">"微桌"</string>
+    <string msgid="7053938513995617849" name="app_waiting_download_title">"<ns1:g id="NAME">%1$s</ns1:g>正在等待安装"</string>
+    <string name="application_name">"微桌"</string>
+    <string msgid="4050141361160214248" name="create_folder_with">"创建“<ns1:g id="NAME">%1$s</ns1:g>”文件夹"</string>
+    <string msgid="7475544710230993317" name="default_scroll_format">"第%1$d页，共%2$d页"</string>
+    <string msgid="1822697352535677073" name="delete_target_label">"移除"</string>
+    <string msgid="5100785476250872595" name="delete_target_uninstall_label">"卸载"</string>
+    <string msgid="2459738000155917941" name="first_run_cling_title">"欢迎使用"</string>
+    <string msgid="4100806530910930934" name="folder_closed">"文件夹已关闭"</string>
+    <string msgid="6409794597405184510" name="folder_created">"文件夹已创建"</string>
+    <string name="folder_game">游戏</string>
+    <string msgid="6617836969016293992" name="folder_hint_text">"未命名文件夹"</string>
+    <string name="folder_learn">学习</string>
+    <string msgid="7371454440695724752" name="folder_name"/>
+    <string msgid="6629239338071103179" name="folder_name_format">"文件夹：<ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="94695026776264709" name="folder_opened">"文件夹已打开，大小为<ns1:g id="WIDTH">%1$d</ns1:g>×<ns1:g id="HEIGHT">%2$d</ns1:g>"</string>
+    <string msgid="1794088362165669656" name="folder_renamed">"已将文件夹重命名为“<ns1:g id="NAME">%1$s</ns1:g>”"</string>
+    <string msgid="1884479294466410023" name="folder_tap_to_close">"触摸可关闭文件夹"</string>
+    <string msgid="9191075570492871147" name="folder_tap_to_rename">"触摸可保存新名称"</string>
+    <string msgid="6081085226050792095" name="gadget_error_text">"加载小部件时出现问题"</string>
+    <string msgid="8274003207686040488" name="gadget_setup_text">"设置"</string>
+    <string msgid="7448809638125333693" name="hotseat_out_of_space">"收藏栏已满"</string>
+    <string msgid="8053346143994679532" name="info_target_label">"应用信息"</string>
+    <string msgid="4211073925752213539" name="item_added_to_workspace">"已将项目添加到主屏幕"</string>
+    <string msgid="4606538322571412879" name="item_moved">"已移动项目"</string>
+    <string msgid="851119963877842327" name="item_removed">"项目已移除"</string>
+    <string msgid="4289502106628154155" name="long_accessible_way_to_add">"点按两次并按住小部件即可选择小部件，您也可以使用自定义操作。"</string>
+    <string msgid="7699152356777458215" name="long_press_widget_to_add">"触摸并按住小部件即可选择。"</string>
+    <string msgid="946331230090919440" name="migration_cling_copy_apps">"复制图标"</string>
+    <string msgid="2752413805582227644" name="migration_cling_description">"要导入旧的主屏幕中的图标和文件夹吗？"</string>
+    <string msgid="9181776667882933767" name="migration_cling_title">"复制应用图标"</string>
+    <string msgid="2626475813981258626" name="migration_cling_use_default">"使用全新配置"</string>
+    <string msgid="2833711483015685619" name="move_to_empty_cell">"移至第 <ns1:g id="NUMBER_0">%1$s</ns1:g> 行第 <ns1:g id="NUMBER_1">%2$s</ns1:g> 列"</string>
+    <string msgid="6295412897075147808" name="move_to_hotseat_position">"移至收藏夹第 <ns1:g id="NUMBER">%1$s</ns1:g> 个位置"</string>
+    <string msgid="6750008980455459790" name="move_to_position">"移至第 <ns1:g id="NUMBER">%1$s</ns1:g> 个位置"</string>
+    <string msgid="6898038085516271325" name="msg_disabled_by_admin">"已被您的管理员停用"</string>
+    <string msgid="9208659281529857371" name="msg_no_phone_permission">"不允许使用“<ns1:g id="APP_NAME">%1$s</ns1:g>”拨打电话"</string>
+    <string msgid="4691004494942118364" name="out_of_space">"此主屏幕上已没有空间。"</string>
+    <string msgid="7592128424511031410" name="package_state_unknown">"未知"</string>
+    <string msgid="923466509822011139" name="permdesc_install_shortcut">"允许应用自行添加快捷方式。"</string>
+    <string msgid="5833423719057558387" name="permdesc_read_settings">"允许应用读取主屏幕中的设置和快捷方式。"</string>
+    <string msgid="5440712911516509985" name="permdesc_write_settings">"允许应用更改主屏幕中的设置和快捷方式。"</string>
+    <string msgid="5632423390354674437" name="permlab_install_shortcut">"安装快捷方式"</string>
+    <string msgid="1941457408239617576" name="permlab_read_settings">"读取主屏幕设置和快捷方式"</string>
+    <string msgid="3574213698004620587" name="permlab_write_settings">"写入主屏幕设置和快捷方式"</string>
+    <string msgid="9160126848219158407" name="safemode_shortcut_error">"安全模式下不允许使用下载的此应用"</string>
+    <string msgid="4863470563535682004" name="safemode_widget_error">"安全模式下不允许使用小部件"</string>
+    <string msgid="266230079505650577" name="screen_moved">"屏幕已移动"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="8119458837558863227" name="settings_button_text">"设置"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="str_greenbox_black_hole">格雷黑洞</string>
+    <string name="str_hiboard_healthy_steps">步数</string>
+    <string name="str_hiboard_healthy_tip">今天使用的时长太久了，出门活动一下筋骨吧！</string>
+    <string name="str_hiboard_healthy_use_phone">使用手机</string>
+    <string name="str_hiboard_history_tip">历史上的今天</string>
+    <string name="str_hiboard_learn_tip">趣学习</string>
+    <string name="str_hiboard_play_tip">同学们都在玩</string>
+    <string name="str_lssw">绿色上网</string>
+    <string name="str_study_1">国学经典</string>
+    <string name="str_study_2">生活猎奇</string>
+    <string name="str_study_3">同步教材</string>
+    <string name="str_study_4">动漫教学</string>
+    <string name="str_study_5">黄冈名师</string>
+    <string msgid="7110262897769622564" name="str_time_days">"<ns1:g id="DAYS">%1$d</ns1:g>天<ns1:g id="HOURS">%2$d</ns1:g>小时<ns1:g id="MINUTES">%3$d</ns1:g>分<ns1:g id="SECONDS">%4$d</ns1:g>秒"</string>
+    <string msgid="703063770554334710" name="str_time_days_no_seconds">"<ns1:g id="DAYS">%1$d</ns1:g>天<ns1:g id="HOURS">%2$d</ns1:g>小时<ns1:g id="MINUTES">%3$d</ns1:g>分钟"</string>
+    <string msgid="7525170329826274999" name="str_time_hours">"<ns1:g id="HOURS">%1$d</ns1:g>小时<ns1:g id="MINUTES">%2$d</ns1:g>分<ns1:g id="SECONDS">%3$d</ns1:g>秒"</string>
+    <string msgid="663342892615646712" name="str_time_hours_no_seconds">"<ns1:g id="HOURS">%1$d</ns1:g>小时<ns1:g id="MINUTES">%2$d</ns1:g>分钟"</string>
+    <string msgid="1467775596084148610" name="str_time_minutes">"<ns1:g id="MINUTES">%1$d</ns1:g>分<ns1:g id="SECONDS">%2$d</ns1:g>秒"</string>
+    <string msgid="7780294302606853082" name="str_time_minutes_no_seconds">"<ns1:g id="MINUTES">%1$d</ns1:g>分钟"</string>
+    <string msgid="4283492130945761685" name="str_time_seconds">"<ns1:g id="SECONDS">%1$d</ns1:g>秒"</string>
+    <string msgid="4172046090762920660" name="uninstall_system_app_text">"这是系统应用，无法卸载。"</string>
+    <string msgid="8404103075899945851" name="wallpaper_button_text">"壁纸"</string>
+    <string msgid="2880537293434387943" name="widget_button_text">"小部件"</string>
+    <string msgid="2370757736025621599" name="widget_dims_format">"%1$d × %2$d"</string>
+    <string msgid="9130327887929620" name="widget_resized">"小部件尺寸已调整为：宽度 <ns1:g id="NUMBER_0">%1$s</ns1:g>，高度 <ns1:g id="NUMBER_1">%2$s</ns1:g>"</string>
+    <string msgid="3753320833950115786" name="work_folder_name">"Work"</string>
+    <string msgid="4119994475505235248" name="workspace_cling_longpress_description">"触摸并按住背景，即可进行个性化设置"</string>
+    <string msgid="368660286867640874" name="workspace_cling_longpress_dismiss">"知道了"</string>
+    <string msgid="9173998993909018310" name="workspace_cling_longpress_title">"壁纸、小部件和设置"</string>
+    <string msgid="257366611030256142" name="workspace_new_page">"主屏幕新页面"</string>
+    <string msgid="8458889198184077399" name="workspace_scroll_format">"主屏幕：第%1$d屏，共%2$d屏"</string>
+</resources>

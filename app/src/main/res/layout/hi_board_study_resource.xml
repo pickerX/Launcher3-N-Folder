@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_titlebar_learn"
+        android:drawablePadding="5dp"
+        android:drawableStart="@drawable/ic_titlebar_learn"
+        android:gravity="start|center_vertical"
+        android:padding="10dp"
+        android:text="@string/str_hiboard_learn_tip"
+        android:textColor="#000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tv_learn_guoxue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/ic_learn_guoxue"
+            android:gravity="center"
+            android:text="@string/str_study_1"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tv_learn_life"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/ic_learn_life"
+            android:gravity="center"
+            android:text="@string/str_study_2"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tv_learn_learn_book"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/ic_learn_teacher"
+            android:gravity="center"
+            android:text="@string/str_study_3" />
+
+        <TextView
+            android:id="@+id/tv_learn_anim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/ic_learn_anime"
+            android:gravity="center"
+            android:text="@string/str_study_4" />
+
+        <TextView
+            android:id="@+id/tv_learn_teacher"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:drawableTop="@drawable/ic_learn_teacher"
+            android:gravity="center"
+            android:text="@string/str_study_5" />
+
+    </LinearLayout>
+</LinearLayout>

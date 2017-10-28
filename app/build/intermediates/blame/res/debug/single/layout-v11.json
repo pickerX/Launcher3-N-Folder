@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

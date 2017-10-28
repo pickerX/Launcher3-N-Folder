@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-sw720dp/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1107
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-sw720dp/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1107
+                    }
+                }
+            }
+        ]
+    }
+]

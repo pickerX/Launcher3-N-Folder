@@ -1,0 +1,1346 @@
+[
+    {
+        "outputFile": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 14,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endLine": 30,
+                        "endColumn": 14,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 106,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 106,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 108,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 108,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 123,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 123,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 101,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 101,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 108,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 108,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 85,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 104,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 104,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 116,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 116,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 80,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 80,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 80,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 80,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 83,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 83,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 103,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 103,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 108,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 108,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 98,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 105,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 105,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 109,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 109,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 106,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 106,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 121,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 121,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endColumn": 97,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 97,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 122,
+                    "endOffset": 2485
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 126,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2490,
+                    "endColumn": 88,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 88,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 95,
+                    "endOffset": 2670
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 95,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2675,
+                    "endColumn": 84,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 84,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 79,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1912,
+                        "endColumn": 79,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 81,
+                    "endOffset": 2917
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2015,
+                        "endColumn": 81,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2922,
+                    "endColumn": 100,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 105,
+                    "endOffset": 3124
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1512,
+                        "endColumn": 105,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3129,
+                    "endColumn": 81,
+                    "endOffset": 3206
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 81,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3211,
+                    "endColumn": 101,
+                    "endOffset": 3308
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 101,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3313,
+                    "endColumn": 111,
+                    "endOffset": 3420
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 111,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3425,
+                    "endColumn": 111,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 111,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 99,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 99,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 136,
+                    "endOffset": 3769
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 136,
+                        "endOffset": 2425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3774,
+                    "endColumn": 111,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 111,
+                        "endOffset": 2288
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 14,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1210,
+                        "endLine": 30,
+                        "endColumn": 14,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 106,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 106,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 108,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 108,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 123,
+                    "endOffset": 742
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 123,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 747,
+                    "endColumn": 101,
+                    "endOffset": 844
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 101,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 849,
+                    "endColumn": 108,
+                    "endOffset": 953
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 108,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 958,
+                    "endColumn": 85,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 104,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 104,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 116,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 116,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 80,
+                    "endOffset": 1342
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 80,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1347,
+                    "endColumn": 80,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 80,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 83,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 83,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 103,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 103,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 108,
+                    "endOffset": 1720
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 108,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1725,
+                    "endColumn": 98,
+                    "endOffset": 1819
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1824,
+                    "endColumn": 105,
+                    "endOffset": 1925
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 105,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1930,
+                    "endColumn": 109,
+                    "endOffset": 2035
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 109,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2040,
+                    "endColumn": 106,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 106,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endColumn": 121,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 121,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endColumn": 97,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 97,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 122,
+                    "endOffset": 2485
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 126,
+                        "endOffset": 1740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2490,
+                    "endColumn": 88,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endColumn": 88,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 95,
+                    "endOffset": 2670
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 890,
+                        "endColumn": 95,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2675,
+                    "endColumn": 84,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endColumn": 84,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 79,
+                    "endOffset": 2835
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1912,
+                        "endColumn": 79,
+                        "endOffset": 1987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2840,
+                    "endColumn": 81,
+                    "endOffset": 2917
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2015,
+                        "endColumn": 81,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2922,
+                    "endColumn": 100,
+                    "endOffset": 3018
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3023,
+                    "endColumn": 105,
+                    "endOffset": 3124
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1512,
+                        "endColumn": 105,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3129,
+                    "endColumn": 81,
+                    "endOffset": 3206
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1745,
+                        "endColumn": 81,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3211,
+                    "endColumn": 101,
+                    "endOffset": 3308
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 101,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3313,
+                    "endColumn": 111,
+                    "endOffset": 3420
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 111,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3425,
+                    "endColumn": 111,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 111,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 99,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 99,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 136,
+                    "endOffset": 3769
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 136,
+                        "endOffset": 2425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3774,
+                    "endColumn": 111,
+                    "endOffset": 3881
+                },
+                "from": {
+                    "file": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/values-cs/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 111,
+                        "endOffset": 2288
+                    }
+                }
+            }
+        ]
+    }
+]

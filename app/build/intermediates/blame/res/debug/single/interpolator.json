@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/interpolator/decelerate_quart.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/interpolator/decelerate_quart.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/interpolator/decelerate_quint.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/interpolator/decelerate_quint.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/interpolator/decelerate_quint.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/interpolator/decelerate_quint.xml"
+    }
+]

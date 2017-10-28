@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:launcher="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:gravity="end|center"
+
+    android:orientation="vertical">
+
+    <com.gwchina.launcher3.pixel.DateWidgetView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:gravity="end|center"
+
+        android:orientation="vertical">
+
+        <com.gwchina.launcher3.pixel.DoubleShadowTextClock
+            android:id="@+id/date_text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:includeFontPadding="false"
+            android:paddingBottom="4.0dip"
+            android:text="11111"
+            android:textColor="#ffffffff"
+            android:textSize="36.0dip"
+            launcher:ambientShadowBlur="6.0dip"
+            launcher:ambientShadowColor="#44000000"
+            launcher:keyShadowBlur="2.0dip"
+            launcher:keyShadowColor="#22000000"
+            launcher:keyShadowOffset="0.5dip" />
+
+        <com.gwchina.launcher3.pixel.DoubleShadowTextClock
+            android:id="@+id/date_text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:includeFontPadding="false"
+            android:text="11111"
+            android:textAllCaps="true"
+            android:textColor="#ffffffff"
+            android:textSize="12.0sp"
+            launcher:ambientShadowBlur="2.0dip"
+            launcher:ambientShadowColor="#66000000"
+            launcher:keyShadowBlur="1.0dip"
+            launcher:keyShadowColor="#33000000"
+            launcher:keyShadowOffset="0.5dip" />
+
+    </com.gwchina.launcher3.pixel.DateWidgetView>
+
+    <com.gwchina.launcher3.pixel.CountDownView
+        android:id="@+id/date_text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:drawableLeft="@drawable/ic_compass"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:textAllCaps="true"
+        android:textColor="#ffffffff"
+        android:textSize="12.0sp"
+        android:visibility="invisible" />
+</LinearLayout>

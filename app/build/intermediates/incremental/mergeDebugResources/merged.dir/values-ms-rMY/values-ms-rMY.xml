@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="4578652015328149361" name="number_of_items_selected">
+      <item quantity="other">%1$d dipilih</item>
+      <item quantity="one">%1$d dipilih</item>
+    </plurals>
+    <string msgid="123723511662250539" name="announce_selection">"Memilih <ns1:g id="LABEL">%1$s</ns1:g>"</string>
+    <string msgid="4882870800623585836" name="crop_wallpaper">"Pangkas kertas dinding"</string>
+    <string msgid="7538534580694411837" name="image_load_fail">"Tidak dapat memuatkan imej"</string>
+    <string msgid="3189640419551368385" name="pick_image">"Foto saya"</string>
+    <string msgid="4628969645948454559" name="pick_wallpaper">"Kertas dinding"</string>
+    <string msgid="4093221025304876354" name="wallpaper_accessibility_name">"Kertas dinding %1$d daripada %2$d"</string>
+    <string msgid="1459353972739215344" name="wallpaper_delete">"Padam"</string>
+    <string msgid="3524143401182707094" name="wallpaper_instructions">"Tetapkan kertas dinding"</string>
+    <string msgid="4800700444605404650" name="wallpaper_load_fail">"Tidak dapat memuatkan imej sebagai kertas dinding"</string>
+    <string msgid="7023180794008631780" name="wallpaper_set_fail">"Tidak dapat menetapkan imej sebagai kertas dinding"</string>
+    <string msgid="5259213374485080595" name="which_wallpaper_option_home_screen">"Skrin utama"</string>
+    <string msgid="7652312651094808607" name="which_wallpaper_option_home_screen_and_lock_screen">"Skrin utama dan kunci skrin"</string>
+    <string msgid="5474588303389139825" name="which_wallpaper_option_lock_screen">"Kunci skrin"</string>
+</resources>

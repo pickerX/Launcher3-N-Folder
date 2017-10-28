@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_blocks_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_blocks_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_normal_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_normal_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/all_apps_search_market_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/all_apps_search_market_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/quantum_panel.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_layered_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_layered_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/wallpaper_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/wallpaper_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/bg_migration_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/bg_migration_cling.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/bg_qsb_pill.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/bg_qsb_pill.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/focus_dot.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/focus_dot.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/horizontal_line.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/horizontal_line.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_shape.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/quantum_panel_shape.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/container_fastscroll_popup_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/container_fastscroll_popup_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/bg_migration_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/bg_migration_cling.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/container_fastscroll_popup_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/container_fastscroll_popup_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_pageturn_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_pageturn_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_turntable_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_turntable_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_card_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_card_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_blocks_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_blocks_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_dark.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/quantum_panel_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/bg_pixel_qsb_connector.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/bg_pixel_qsb_connector.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/all_apps_button_icon.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_card_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_card_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_pageturn_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_pageturn_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_dark.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/quantum_panel_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/wallpaper_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/wallpaper_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/wallpaper_tile_fg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/widgets_row_divider.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/widgets_row_divider.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/wallpaper_tile_fg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/wallpaper_tile_fg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/widget_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/widget_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_rotate_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_rotate_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/bg_screenpanel.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/bg_screenpanel.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_rotate_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_rotate_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/bg_qsb_pill.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/bg_qsb_pill.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/widgets_row_divider.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/widgets_row_divider.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/horizontal_line.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/horizontal_line.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/bg_pixel_qsb_connector.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/bg_pixel_qsb_connector.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/focusable_view_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/focusable_view_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_shape.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/quantum_panel_shape.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/all_apps_button_icon.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/overview_space_divider.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/overview_space_divider.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/all_apps_search_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/all_apps_search_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/setting_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/setting_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_turntable_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_turntable_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/quantum_panel.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/all_apps_search_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/all_apps_search_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_compass_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_compass_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/focus_dot.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/focus_dot.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_shape_dark.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/quantum_panel_shape_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/anim_layered_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/anim_layered_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/setting_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/setting_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/focusable_view_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/focusable_view_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/widget_internal_focus_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/widget_internal_focus_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/widget_internal_focus_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/widget_internal_focus_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/widget_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/widget_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/overview_space_divider.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/drawable/overview_space_divider.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/quantum_panel_shape_dark.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/quantum_panel_shape_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_normal_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_normal_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/bg_screenpanel.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/bg_screenpanel.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/anim_compass_button.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/anim_compass_button.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/all_apps_search_market_bg.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/drawable/all_apps_search_market_bg.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/huangpengfei/.android/build-cache/b50eae91905a742e1d0e7df9ee789e16c5915d6c/output/res/drawable/abc_ic_search_api_material.xml"
+    }
+]

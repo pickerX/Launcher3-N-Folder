@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-port/launcher.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/layout-port/launcher.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-port/longpress_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/layout-port/longpress_cling.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-port/launcher.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/layout-port/launcher.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/layout-port/migration_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/layout-port/migration_cling.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-port/migration_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/layout-port/migration_cling.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/layout-port/longpress_cling.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/layout-port/longpress_cling.xml"
+    }
+]

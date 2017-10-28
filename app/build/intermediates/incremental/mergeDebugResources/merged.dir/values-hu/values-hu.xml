@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="4578652015328149361" name="number_of_items_selected">
+      <item quantity="other">%1$d kiválasztva</item>
+      <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string msgid="123723511662250539" name="announce_selection">"<ns1:g id="LABEL">%1$s</ns1:g> kiválasztva"</string>
+    <string msgid="4882870800623585836" name="crop_wallpaper">"Háttérkép körbevágása"</string>
+    <string msgid="7538534580694411837" name="image_load_fail">"A kép betöltése nem sikerült"</string>
+    <string msgid="3189640419551368385" name="pick_image">"Saját fotók"</string>
+    <string msgid="4628969645948454559" name="pick_wallpaper">"Háttérképek"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="4093221025304876354" name="wallpaper_accessibility_name">"%1$d/%2$d. háttérkép"</string>
+    <string msgid="1459353972739215344" name="wallpaper_delete">"Törlés"</string>
+    <string msgid="3524143401182707094" name="wallpaper_instructions">"Háttérkép beállítása"</string>
+    <string msgid="4800700444605404650" name="wallpaper_load_fail">"A kép betöltése háttérképként nem sikerült"</string>
+    <string msgid="7023180794008631780" name="wallpaper_set_fail">"A kép beállítása háttérképként nem sikerült"</string>
+    <string msgid="5259213374485080595" name="which_wallpaper_option_home_screen">"Kezdőképernyő"</string>
+    <string msgid="7652312651094808607" name="which_wallpaper_option_home_screen_and_lock_screen">"Kezdőképernyő és lezárási képernyő"</string>
+    <string msgid="5474588303389139825" name="which_wallpaper_option_lock_screen">"Lezárási képernyő"</string>
+</resources>

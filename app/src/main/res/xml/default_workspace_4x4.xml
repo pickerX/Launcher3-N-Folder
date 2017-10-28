@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<favorites xmlns:launcher="http://schemas.android.com/apk/res-auto/com.gwchina.launcher3">
+
+    <!-- Hotseat -->
+    <include launcher:workspace="@xml/dw_phone_hotseat" />
+
+    <!-- middle row -->
+    <!-- 格雷黑洞，学习文件夹，游戏文件夹， 均不能移动和删除
+    com.appwoo.txtw.activity.core.setting.greenbox.view.GreenDisableActivity
+    -->
+
+    <shortcut
+        launcher:icon="@drawable/quantum_panel_dark_bitmap"
+        launcher:option="5"
+        launcher:screen="0"
+        launcher:title="@string/str_greenbox_black_hole"
+        launcher:uri="#Intent;action=android.intent.action.MAIN;category=com.appwoo.txtw.activity.BLACK_HOLE;end"
+        launcher:x="0"
+        launcher:y="2" />
+    <!-- folderType see enum FolderType -->
+    <folder
+        launcher:folderType="1"
+        launcher:option="5"
+        launcher:screen="0"
+        launcher:title="@string/folder_game"
+        launcher:x="1"
+        launcher:y="2" />
+
+    <folder
+        launcher:folderType="0"
+        launcher:option="5"
+        launcher:screen="0"
+        launcher:title="@string/folder_learn"
+        launcher:x="2"
+        launcher:y="2" />
+    <!-- Bottom row -->
+
+    <resolve
+        launcher:screen="0"
+        launcher:x="0"
+        launcher:y="-1">
+        <favorite
+            launcher:className="com.gwchina.market.activity.MarketActivity"
+            launcher:packageName="com.gwchina.market.activity" />
+    </resolve>
+
+    <resolve
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="-1">
+        <favorite launcher:uri="#Intent;action=android.intent.action.MAIN;category=android.intent.category.APP_CALENDAR;end" />
+    </resolve>
+
+    <resolve
+        launcher:screen="0"
+        launcher:x="2"
+        launcher:y="-1">
+        <favorite launcher:uri="#Intent;action=android.settings.SETTINGS;end" />
+        <favorite launcher:uri="market://details?id=com.android.launcher" />
+    </resolve>
+
+    <resolve
+        launcher:screen="0"
+        launcher:x="3"
+        launcher:y="-1">
+        <favorite launcher:uri="#Intent;action=android.intent.action.MAIN;category=android.intent.category.APP_GALLERY;end" />
+        <favorite launcher:uri="#Intent;type=images/*;end" />
+    </resolve>
+
+</favorites>

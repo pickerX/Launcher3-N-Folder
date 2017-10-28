@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion rootProject.compileSdkVersion
+    buildToolsVersion rootProject.buildToolsVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    defaultConfig {
+        applicationId "com.gwchina.launcher3"
+        minSdkVersion rootProject.minSdkVersion
+        targetSdkVersion rootProject.targetSdkVersion
+        versionCode Integer.parseInt(rootProject.versionCode)
+        versionName rootProject.versionName
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('/home/tic/work/lssw_keys/txtwKey_common.keystore')
+            storePassword 'www.txtws.com'
+            keyAlias 'txtw'
+            keyPassword 'www.txtws.com'
+        }
+    }
+
+    buildTypes {
+        release {
+//            signingConfig signingConfigs.release
+            manifestPlaceholders = [APP_NAME: "@string/application_name"]
+        }
+
+        debug {
+//            signingConfig signingConfigs.release
+            versionNameSuffix ".debug"
+            manifestPlaceholders = [APP_NAME: "绿网桌面"]
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile "com.android.support:appcompat-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:recyclerview-v7:$rootProject.supportLibraryVersion"
+    compile "com.android.support:cardview-v7:$rootProject.supportLibraryVersion"
+
+}

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/launcher_preferences.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/launcher_preferences.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/dw_phone_hotseat.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/dw_phone_hotseat.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/default_workspace_3x3.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/default_workspace_3x3.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/launcher_preferences.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/launcher_preferences.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/default_workspace_5x5.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/default_workspace_5x5.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/default_workspace_5x5.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/default_workspace_5x5.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/dw_phone_hotseat.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/dw_phone_hotseat.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_email.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_email.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_messenger.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_messenger.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/dw_tablet_hotseat.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/dw_tablet_hotseat.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/default_workspace_3x3.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/default_workspace_3x3.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_gallery.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_gallery.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/default_workspace_5x6.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/default_workspace_5x6.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/default_workspace_4x4.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/default_workspace_4x4.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/dw_tablet_hotseat.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/dw_tablet_hotseat.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_gallery.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_gallery.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_email.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_email.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_phone.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_phone.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_browser.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_browser.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_messenger.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_messenger.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_camera.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_camera.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/default_workspace_4x4.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/default_workspace_4x4.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/default_workspace_5x6.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/default_workspace_5x6.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_phone.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_phone.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/build/intermediates/res/merged/debug/xml/app_target_camera.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/launcher/launcher3-N-folder/app/src/main/res/xml/app_target_camera.xml"
+    },
+    {
+        "merged": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/build/intermediates/res/merged/debug/xml/app_target_browser.xml",
+        "source": "/Users/huangpengfei/Documents/workspace/Launcher3-N-Folder/app/src/main/res/xml/app_target_browser.xml"
+    }
+]

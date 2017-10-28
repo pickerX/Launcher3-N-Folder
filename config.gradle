@@ -1,0 +1,18 @@
+ext {
+    // Sdk and tools
+    compileSdkVersion = 26
+    buildToolsVersion = '26.0.1'
+    minSdkVersion = 16
+    targetSdkVersion = 25
+
+    // Libs dependencies
+    supportLibraryVersion = '26.+'
+    junitVersion = '4.12'
+    runnerVersion = '0.5'
+    espressoVersion = '2.2.2'
+
+    // Version
+    versionCode = '5801'
+    versionName = '5.8.1'
+
+}
